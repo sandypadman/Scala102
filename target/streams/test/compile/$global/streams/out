@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sandhya/workspace/Scala102/src/test/scala/TestSpec.scala:12:12: value shoulBe is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m   outcome shoulBe "£12.01"[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
